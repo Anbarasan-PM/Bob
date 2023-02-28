@@ -1,1 +1,4 @@
-# Bob
+
+This Python code implements a basic math operations chatbot that can perform addition, subtraction, multiplication, and division of two operands. The chatbot interacts with users through the command line interface and responds to user input in natural language. It uses the built-in 're' module to validate user input and perform small talk. The code includes several functions, such as 'add(num1, num2)' which adds two numbers and returns the result, 'subtract()', 'multiply()', and 'divide()'. 'chatbot()' is the entry point for the chatbot and initializes the conversation with a greeting and a prompt.
+
+To use the chatbot, run the chatbot() function in the Python interpreter or from the command line. If the user enters an invalid operation or an invalid input, the chatbot prompts the user to enter a valid input.
